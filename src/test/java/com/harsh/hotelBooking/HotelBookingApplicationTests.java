@@ -1,4 +1,4 @@
-package com.harsh.demo;
+package com.harsh.hotelBooking;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
